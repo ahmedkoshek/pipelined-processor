@@ -1,0 +1,49 @@
+vsim -gui work.processor
+add wave sim:/processor/*
+mem load -i C:/Users/ahmed/Desktop/twoOperand.mem /processor/Instruction_Memory/ram
+mem load -i C:/Users/ahmed/Desktop/twoOperandDataMemory.mem /processor/Mem/Mem/ram
+force -freeze sim:/processor/Clk 0 0, 1 {50 ns} -r 100
+force -freeze sim:/processor/Rst 1 0
+force -freeze sim:/processor/interrupt 0 0
+run
+run
+run
+force -freeze sim:/processor/Rst 0 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+force -freeze sim:/processor/interrupt 1 0
+run
+force -freeze sim:/processor/interrupt 0 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run

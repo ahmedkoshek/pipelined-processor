@@ -1,0 +1,39 @@
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\Administrator\Desktop\uni\Arch\khairyAssembler\Assembler\Assembler\bin\Debug\Assembler.pdb
+G:\Assembler\Assembler\obj\Debug\Assembler.exe
+G:\Assembler\Assembler\obj\Debug\Assembler.pdb
+D:\Gam3a\Junior\Spring2016\Computer Architecture\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.exe
+D:\Gam3a\Junior\Spring2016\Computer Architecture\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.pdb
+D:\Gam3a\Junior\Spring2016\Computer Architecture\Project\Assembler+Testcases\Assembler\Assembler\bin\Debug\Assembler.exe
+D:\Gam3a\Junior\Spring2016\Computer Architecture\Project\Assembler+Testcases\Assembler\Assembler\bin\Debug\Assembler.pdb
+D:\Gam3a\Junior\Spring2016\Computer Architecture\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+D:\Gam3a\Junior\Spring2016\Computer Architecture\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+D:\Gam3a\Junior\Spring2016\Computer Architecture\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+D:\Gam3a\Junior\Spring2016\Computer Architecture\Project\Assembler+Testcases\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\ahmed\Downloads\Compressed\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\obj\Debug\Assembler.pdb
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\bin\Debug\Assembler.exe
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\bin\Debug\Assembler.pdb
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\obj\Debug\Assembler.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\obj\Debug\Assembler.Form1.resources
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\obj\Debug\Assembler.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Arch\Assembler\Assembler\obj\Debug\Assembler.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\Architecture\Assembler\Assembler\bin\Debug\Assembler.exe.config
+C:\Users\ahmed\Desktop\Architecture\Assembler\Assembler\obj\Debug\Assembler.exe
+C:\Users\ahmed\Desktop\Architecture\Assembler\Assembler\obj\Debug\Assembler.pdb

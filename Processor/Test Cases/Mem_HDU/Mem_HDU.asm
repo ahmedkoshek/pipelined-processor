@@ -1,0 +1,25 @@
+;data segment
+0
+10
+20
+30
+40
+50
+60
+70
+
+LDD R1,4  ;R1=40
+LDD R2,5  ;R2=50
+ADD R1,R2,R1 ;R1=90
+STD R1,5  ;M[4]=90
+Push R2   ;M[255]=50  Sp=254
+Push R1   ;M[254]=90  Sp=253
+LDD R1,1  ;R1=10
+LDD R2,2  ;R2=20
+ADD R1,R2,R1 ;R1=30
+Pop R1    ;R1=90
+pop R2    ;R2=50
+
+RTI
+
+
